@@ -1,2 +1,3 @@
 # Git-Assignment1-repo
-This is the first assignment
+This is my first Git-assignment
+Today is tuesday
